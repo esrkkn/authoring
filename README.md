@@ -13,7 +13,7 @@
 
 ## Internal-Link
 
-[imagelink](Images)
+[imagelink](#Images)
 
 ## Images
 ![image1](redbull.jpg) 
